@@ -49,6 +49,8 @@ return {
     ui = {
         -- theme
         awtema = "maco",
+        -- dark mode
+        dark_mode = "true",
         -- enable client rounding - 0 = disable
         border_radius = 6,
         -- taglist
@@ -109,6 +111,18 @@ return {
         tagfive = {
             "Pcmanfm",
             "File-roller",
+        },
+    },
+    ytdlp = {
+        showroom = {
+            member_satu = "46_KYOKO_SAITO",
+            member_dua = "",
+            --etc
+        },
+        twitch = {
+            live_satu = "kotoha_ktnh_",
+            live_dua = "",
+            --etc
         },
     }
 }
